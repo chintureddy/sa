@@ -1,0 +1,1 @@
+c:\users\shashank\documents\visual studio 2015\Projects\Angular2Mvc5Application1\Angular2Mvc5Application1\obj\Debug\Angular2Mvc5Application1.csprojResolveAssemblyReference.cache
